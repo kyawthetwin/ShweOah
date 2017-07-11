@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shwe Oah</string>
+    <string name="ShweOhnName">Shwe Oah - Online Institude</string>
+    <string name="SignIn">SIGN IN</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="createAccount">Create Account Now!</string>
+    <string name="signInwith">Sign In with</string>
+    <string name="or">or</string>
+    <string name="course">Course</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="Categories">Categories</string>
+    <string name="TopRated">Top Rated</string>
+</resources>
